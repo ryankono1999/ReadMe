@@ -22,6 +22,6 @@ During my time in marketing 3509 at Temple University I have completed 11 assign
 9. **Module 9: Clustering and Segmentation**
 - [A9 Segmentation (retail transactions and behavioral segmentation](https://templeu.instructure.com/courses/100008/assignments/1350610)
 10. **Module 10: Text Analysis**
-- [A10 Vegas Resort Text Mining](https://templeu.instructure.com/courses/100008/assignments/1350601)
+- [A10 Vegas Resort Text Mining](https://colab.research.google.com/drive/13ybe4mfBysZJoqM2XQtoQ_NHo_aPOZTq?usp=sharing)
 11. **Module 11: Use GitHub to create your Assignment Portfolio**
 - [A11 Market your Customer Data Analytics Skills](https://github.com/ryankono1999/ReadMe/blob/main/README.md)

@@ -1,4 +1,4 @@
-# ReadMe
+# Marketing 3509 Customer Data Analytics Portfolio
 During my time in marketing 3509 at Temple University I have completed 11 assignments. Each assignment becoming more and more complex. This portfolio contains all my accomplished assignments in one nice organized folder. 
 # My Résumé
 - [Résumé](https://colab.research.google.com/drive/1Jp85soF5V_ZYaSkXiftOjD591CXoRJTz?authuser=1)
